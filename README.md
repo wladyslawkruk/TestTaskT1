@@ -1,7 +1,7 @@
 # Test_task_for_T1
 
 
-App controller listening at: http://localhost:8080
+App controller listening at: http://localhost:8080/api/frequency
 
 
 
